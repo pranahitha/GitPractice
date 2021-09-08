@@ -1,7 +1,7 @@
 "Product-App"
 
 
-this is a demo project to learn git commands in terminal
+This is a demo project to learn git commands in terminal
 
 
 Commands : 
