@@ -1,0 +1,11 @@
+server:
+ port: 9090
+
+spring:
+ application:
+    name: RevatureProductApp
+ 
+company:
+ companyname: Revature
+ companyLocation: Bangalore
+ companyAddress: electricity 
